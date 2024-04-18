@@ -1,0 +1,15 @@
+C:\Users\celin\OneDrive\Desktop\Csharp turn based combat game\TurnBasedCombatGame\obj\Debug\net8.0\TurnBasedCombatGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\celin\OneDrive\Desktop\Csharp turn based combat game\TurnBasedCombatGame\obj\Debug\net8.0\TurnBasedCombatGame.AssemblyInfoInputs.cache
+C:\Users\celin\OneDrive\Desktop\Csharp turn based combat game\TurnBasedCombatGame\obj\Debug\net8.0\TurnBasedCombatGame.AssemblyInfo.cs
+C:\Users\celin\OneDrive\Desktop\Csharp turn based combat game\TurnBasedCombatGame\obj\Debug\net8.0\TurnBasedCombatGame.csproj.CoreCompileInputs.cache
+C:\Users\celin\OneDrive\Desktop\Csharp turn based combat game\TurnBasedCombatGame\obj\Debug\net8.0\TurnBasedCombatGame.sourcelink.json
+C:\Users\celin\OneDrive\Desktop\Csharp turn based combat game\TurnBasedCombatGame\bin\Debug\net8.0\TurnBasedCombatGame.exe
+C:\Users\celin\OneDrive\Desktop\Csharp turn based combat game\TurnBasedCombatGame\bin\Debug\net8.0\TurnBasedCombatGame.deps.json
+C:\Users\celin\OneDrive\Desktop\Csharp turn based combat game\TurnBasedCombatGame\bin\Debug\net8.0\TurnBasedCombatGame.runtimeconfig.json
+C:\Users\celin\OneDrive\Desktop\Csharp turn based combat game\TurnBasedCombatGame\bin\Debug\net8.0\TurnBasedCombatGame.dll
+C:\Users\celin\OneDrive\Desktop\Csharp turn based combat game\TurnBasedCombatGame\bin\Debug\net8.0\TurnBasedCombatGame.pdb
+C:\Users\celin\OneDrive\Desktop\Csharp turn based combat game\TurnBasedCombatGame\obj\Debug\net8.0\TurnBasedCombatGame.dll
+C:\Users\celin\OneDrive\Desktop\Csharp turn based combat game\TurnBasedCombatGame\obj\Debug\net8.0\refint\TurnBasedCombatGame.dll
+C:\Users\celin\OneDrive\Desktop\Csharp turn based combat game\TurnBasedCombatGame\obj\Debug\net8.0\TurnBasedCombatGame.pdb
+C:\Users\celin\OneDrive\Desktop\Csharp turn based combat game\TurnBasedCombatGame\obj\Debug\net8.0\TurnBasedCombatGame.genruntimeconfig.cache
+C:\Users\celin\OneDrive\Desktop\Csharp turn based combat game\TurnBasedCombatGame\obj\Debug\net8.0\ref\TurnBasedCombatGame.dll
